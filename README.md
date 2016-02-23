@@ -73,6 +73,26 @@ En revanche, pour éviter le coût du changement de contexte, les discussions te
 > Attention à ne pas rédiger un `README` _intégralement_ en anglais, par exemple. Un simple résumé en français _([exemple](https://github.com/sgmap/paie-api#readme))_ vous permettra de [respecter la loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005616341&dateTexte=vig#LEGIARTI000006421216).
 
 
+Licence
+-------
+
+Sauf demande expresse justifiée et discutée en interne, notre code est publié sous licence libre. Une licence [AGPL-3.0](http://www.gnu.org/licenses/agpl-3.0.fr.html) est une bonne valeur par défaut.
+
+### Compatibilité
+
+Attention, si vous incluez du code externe dans le vôtre (pas du lien, mais bien de la copie), à n'inclure que du code sous une licence compatible avec la licence AGPL.
+
+Si vous utilisez des bibliothèques non compatibles AGPL, pensez à le [préciser dans la licence](http://www.gnu.org/licenses/gpl-faq.html#GPLIncompatibleLibs) avant la phase de passation.
+
+### Appliquer une licence
+
+Inclure le fichier de licence [au format texte brut](http://www.gnu.org/licenses/agpl-3.0.txt) à la racine du dépôt concerné, sous le titre `LICENSE.AGPL.txt`.
+
+> Ce nom en améliore la découvrabilité.
+
+Si vous travaillez sur un module NPM, pensez à ajouter la prioriété `"license": "AGPL-3.0"` dans votre `package.json`.
+
+
 Vocabulaire
 -----------
 
