@@ -11,12 +11,12 @@ En cas de déplacement, sont pris en charge :
 
 - Les déplacements en seconde classe à 100%.
 - L'hébergement sur un forfait de 60€ / nuit.
-- La nourriture sur un forfait de 15€ / repas.
+- La nourriture sur un forfait de 15,25€ / repas.
 
 
 ### Préconditions
 
-Se faire établir un ordre de mission.
+Se faire établir un ordre de mission au moins une semaine à l'avance (trois semaines pour les déplacements à l'étranger).
 
 
 ### Transports
@@ -40,7 +40,7 @@ Rien à faire, l'ordre de mission détermine la durée de déplacement et les d�
 
 ### Résultat attendu
 
-Versement direct au RIB indiqué lors de la première demande de remboursement dans les 20 jours.
+Versement direct au RIB indiqué lors de la première demande de remboursement dans les 2 mois.
 
 
 Travail le week-end
