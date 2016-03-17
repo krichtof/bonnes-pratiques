@@ -76,7 +76,7 @@ Commandes
 
 ### Matériel informatique
 
-- Passer commande en décrivant le matériel nécessaire à `l-sgmap-sout-informatique@modernisation.gouv.fr`.
+- Passer commande en décrivant le matériel nécessaire à `L-SGMAP-SOUT-INFORMATIQUE@modernisation.gouv.fr`.
 
 
 Cartes de visite
