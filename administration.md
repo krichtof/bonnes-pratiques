@@ -22,3 +22,9 @@ En plus de ces listes liées à la participation aux activités de l'incubateur,
 
 - `contact@beta.gouv.fr` : accessible de l'extérieur, et a pour destinataire les membres souhaitant s'impliquer dans la partie commerciale, communication extérieure et construction à long terme de l'incubateur et de son écosystème.
 - `sgmap@beta.gouv.fr` : échanges sur les procédures administratives utiles pour les agents du SGMAP (gestion des ordres de mission…).
+
+Agenda
+-------------------
+
+Les évènements communs à tout l'incubateur sont référencés sur un [agenda public](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris). Il est visible par tous - y compris hors de l'incubateur -, et peut être ajouté à un gestionnaire d'agenda via son adresse [iCal](https://calendar.google.com/calendar/ical/0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com/public/basic.ics) ou [email](0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com).
+
