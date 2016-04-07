@@ -20,6 +20,10 @@ Je pose mes affaires
 
 > Avec une adresse `@data.gouv.fr`, ça devrait rouler tout seul. Sinon, demande à **@MattiSG**, par exemple.
 
+- Obtenir les droits d'édition de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris).
+
+> Demande à **@fpagnoux**, par exemple.
+
 
 Wouhou, je commence à bosser !
 ------------------------------
