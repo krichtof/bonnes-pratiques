@@ -11,7 +11,7 @@ Les mailing-lists suivantes sont disponibles :
 - `incubateur@beta.gouv.fr` : membres de l'incubateur présent·e·s dans l'espace physique de l'incubateur ou une de ses annexes.
 - `membres@beta.gouv.fr` : membres des Startups actuellement incubées, cette liste inclut donc incubateur@beta.gouv.fr.
 - `alumni@beta.gouv.fr` : anciens `membres@beta.gouv.fr` dont la Startup n'est plus incubée.
-- `amis@beta.gouv.fr` : personnes ayant soutenu l'incubateur.
+- `amis@beta.gouv.fr` : personnes ayant soutenu l'incubateur, cette liste est modérée (VIP inside).
 
 Seuls les membres de ces listes peuvent y poster.
 
