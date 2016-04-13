@@ -28,3 +28,16 @@ Agenda
 
 Les évènements communs à tout l'incubateur sont référencés sur un [agenda public](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris). Il est visible par tous - y compris hors de l'incubateur -, et peut être ajouté à un gestionnaire d'agenda via son adresse [iCal](https://calendar.google.com/calendar/ical/0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com/public/basic.ics) ou [email](0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com).
 
+Boîtes mail
+-------------------
+
+Les membres des Startups peuvent obtenir une boîte mail de type `prenom.nom@beta.gouv.fr`. Pour la créer, il faut passer par l'interface web d'OVH. Si vous n'avez pas les droits d'accès, demandez-les dans `#administration` sur Slack.
+
+1) Dans l'espace de gestion Emails : créez une nouvelle boîte, sous la forme `prenom.nom`. Indiquez votre nom complet dans le formulaire, ainsi qu'un mot de passe suffisamment sécurisé.
+
+2) Si besoin, créer une redirection vers une autre boîte mail que vous gérez déjà. Dans la plupart des cas vous devriez décocher la case _Conserver une copie locale_.
+
+Pour envoyer un mail avec cette adresse, utilisez les paramètres suivants :
+- Serveur : ssl0.ovh.net (activer TLS)
+- Utilisateur : `nom.prenom%beta.gouv.fr`
+- Mot de passe : votre mot de passe
