@@ -12,7 +12,7 @@ Je pose mes affaires
 
 > Tu pourras même rendre ton appartenance à l'organisation [publique](https://github.com/orgs/sgmap/people) et bénéficier du petit logo sur ton compte GitHub personnel :wink: achievement unlocked!
 
-- Obtenir une adresse `@data.gouv.fr`.
+- Obtenir une adresse `@beta.gouv.fr`.
 
 > Demande à **@JDesboeufs**, par exemple.
 
