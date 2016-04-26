@@ -14,7 +14,7 @@ Je pose mes affaires
 
 - Obtenir une adresse `@beta.gouv.fr`.
 
-> Demande à **@JDesboeufs**, par exemple.
+> Demande à **@fpagnoux**, par exemple.
 
 - Se créer un compte sur notre [Slack](https://startups-detat.slack.com).
 
