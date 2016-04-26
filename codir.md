@@ -47,6 +47,12 @@ Exemple :
 > - Stabilisation à 800 visiteurs uniques / jour.
 > - Déplacement à Montpellier. Très bon accueil de l'écosystème local.
 
+### Indique ton nom
+
+Il est important qu'on sache qui a écrit quoi, pour que le représentant·e puisse demander des éclaircissements à la bonne personne en cas de besoin.
+
+Il faut donc bien penser à indiquer son nom en cliquant en haut à droite de l'interface de saisie collaborative.
+
 
 ## Participer au Comité de Direction
 
