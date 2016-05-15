@@ -28,6 +28,6 @@ Je pose mes affaires
 Wouhou, je commence à bosser !
 ------------------------------
 
-- [Référence ta startup](https://github.com/sgmap/sgmap.github.io/blob/master/CONTRIBUTING.md#ajouter-une-startup) sur notre site public.
+- [Référence ta startup](https://github.com/sgmap/sgmap.github.io/blob/gh-pages/CONTRIBUTING.md#ajouter-une-startup) sur notre site public.
 - Crée deux channels dans Slack : un du nom de ta startup pour les sujets qui peuvent intéresser tout l'incubateur, un autre suffixé de `-internals` pour les échanges internes à ton équipe.
 - Présente-toi dans `#general` !  :wave:
